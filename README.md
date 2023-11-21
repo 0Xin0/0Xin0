@@ -1,5 +1,5 @@
 👋 Hi, I’m Xin.
-- 😊 Now, i’m a frishman.
+- 😊 Now, i’m a freshman.
 - 👀 I’m interested in game and sports.
 - 🌱 I’m currently learning c++ and Go.
 - 📫 How to reach me? 799360740@qq.com.
