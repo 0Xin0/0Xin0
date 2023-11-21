@@ -1,7 +1,7 @@
 👋 Hi, I’m Xin.
 - 😊 Now, I’m a freshman.
 - 👀 I’m interested in game and sports.
-- 🌱 I’m currently learning C++ and Go.
+- 🌱 I’m currently learning Go and C++.
 - 💬 We can communicate with Go and C++, but I’m a rookie.
 - 📫 How to reach me? 799360740@qq.com.
 
