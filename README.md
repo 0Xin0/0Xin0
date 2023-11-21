@@ -1,11 +1,16 @@
 👋 Hi, I’m Xin.
-- 😊 Now, i’m a freshman.
+- 😊 Now, I’m a freshman.
 - 👀 I’m interested in game and sports.
-- 🌱 I’m currently learning c++ and Go.
+- 🌱 I’m currently learning C++ and Go.
+- 💬 We can communicate with Go and C++, but I’m a rookie.
 - 📫 How to reach me? 799360740@qq.com.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0Xin0&layout=compact&theme=tokyonight)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=0Xin0&theme=dracula)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+
 <!---
 0Xin0/0Xin0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
