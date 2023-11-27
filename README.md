@@ -1,4 +1,4 @@
-**👋 Hi, I’m Xin.**
+# ***👋 Hi, I’m Xin.***
 - 😊 Now, I’m a freshman.
 - 👀 I’m interested in game and sports.
 - 🌱 I’m currently learning Go and C++.
