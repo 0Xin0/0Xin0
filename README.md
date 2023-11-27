@@ -1,12 +1,13 @@
 # ***👋 Hi, I’m Xin.***
+***
 - ## 😊 Now, I’m a freshman.
-- ***
+***
 - ## 👀 I’m very interested in games and sports, as well as programming!
-- ***
+***
 - ## 🌱 I’m currently learning Go and C++.
-- ***
-- ## 💬 We can communicate with Go and C++, but I’m a rookie.
-- ***
+***
+- ## 💬 We can communicate with Go and C++, but I’m a ~~rookie~~ beginner.
+***
 - ## 📫 How to reach me? 799360740@qq.com.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Xin0&theme=tokyonight&show_icons=true)
