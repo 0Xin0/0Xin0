@@ -4,9 +4,9 @@
 ***
 - ## 👀 I’m very interested in games and sports, as well as programming!
 ***
-- ## 🌱 I’m currently learning Go and C++.
+- ## 🌱 I’m currently learning ***Go*** and ***C++***.
 ***
-- ## 💬 We can communicate with Go and C++, but I’m a ~~rookie~~ beginner.
+- ## 💬 We can communicate with ***Go*** and ***C++***, but I’m a ~~rookie~~ beginner.
 ***
 - ## 📫 How to reach me? 799360740@qq.com.
 
